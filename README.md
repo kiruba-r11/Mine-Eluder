@@ -74,8 +74,10 @@ The grid is implemented as a `Sparse Matrix` where `mines` are the `non-zero` el
 
 ^ `(p - probability of mines)` -> the `result` is `approximate` value
 
-### Spoiler
+### Spoiler :wink:
 It is a `luck-based` game. So, if you are not able to win it, don't worry! There is a `CHEAT CODE` option where you can enter the cheat and `reveal` the location of mines before the start of the game.
 
 ### Pull Requests
 I am open to PRs and would really appreciate you to contribute to this repository. 
+
+**_Note:_ I developed this game as an app which is an upgradation to this command-line application with a good UI. You can find the App code here :point_right: [Click Here](https://github.com/kiruba-r11/Mine-Eluder-App)**
